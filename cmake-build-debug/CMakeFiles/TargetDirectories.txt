@@ -1,3 +1,0 @@
-G:/Documents/coding/practice/cpp/clion/cmake-build-debug/CMakeFiles/clion.dir
-G:/Documents/coding/practice/cpp/clion/cmake-build-debug/CMakeFiles/edit_cache.dir
-G:/Documents/coding/practice/cpp/clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
